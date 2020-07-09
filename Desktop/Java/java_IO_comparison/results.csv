@@ -1,0 +1,5 @@
+,1MB,10MB,100MB
+FileInputStream,866 MS,8168 MS,80916 MS
+BufferedReader,17 MS,49 MS,493 MS
+BufferedInputStream,6 MS,40 MS,287 MS
+Scanner,64 MS,334 MS,3247 MS

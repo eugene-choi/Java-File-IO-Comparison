@@ -1,0 +1,3 @@
+1MB,6 MS (BufferedInputStream),17 MS (BufferedReader),64 MS (Scanner),866 MS (FileInputStream)
+10MB,40 MS (BufferedInputStream),49 MS (BufferedReader),334 MS (Scanner),8168 MS (FileInputStream)
+100MB,287 MS (BufferedInputStream),493 MS (BufferedReader),3247 MS (Scanner),80916 MS (FileInputStream)
